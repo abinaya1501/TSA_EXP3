@@ -12,7 +12,6 @@ type to fit the data.
 5. Represent the result in graphical representation as given below.
 ### PROGRAM:
 ```
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -60,12 +59,8 @@ plt.ylabel('Autocorrelation')
 
 plt.grid(True)
 plt.show()
-
 ```
-
 ### OUTPUT:
-
 <img width="999" height="618" alt="image" src="https://github.com/user-attachments/assets/e0e1c1e9-ce27-4363-8267-3704b0fd1e5e" />
-
 ### RESULT:
 Thus we have successfully implemented the auto correlation function in python.
